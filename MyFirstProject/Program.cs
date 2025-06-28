@@ -18,3 +18,4 @@ Console.WriteLine("Sex: " + sex);
 string status = "Single";
 Console.WriteLine("Status: " + status);
 
+
