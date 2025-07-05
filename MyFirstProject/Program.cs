@@ -79,3 +79,4 @@ class StudentQuizSystem
         Console.WriteLine($"\n{name} (ID: {id}), waxaad saxday {correct} / 10.");
     }
 }
+
